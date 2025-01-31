@@ -40,20 +40,25 @@
 ## 참여 프로젝트
 **1. Zerobase**
 - (ML) 여행 장소 추천 시스템 : 각 개인의 선호도에 따른 여행 장소 추천 서비스 구현
-  - [GitHub](https://github.com/your-repo-link) [PPT](docs/presentation.pdf)
+  - [발표자료](docs/DS스쿨_26기_머신러닝프로젝트_최종발표(최종).pdf)
 - (CV) 손글씨 이미지 유사 폰트 추천 서비스 : 손글씨 이미지에 대한 유사 폰트 추천 서비스 구현
-  - [GitHub](https://github.com/your-repo-link) [PPT](docs/presentation.pdf)
+  - [GitHub](https://github.com/usey10/HandWriteDL)
+  - [발표자료](docs/딥러닝최종발표_5조.pdf)
 - (CV) 차량 손상 부위 사진을 통한 손상 유형 구분 : 차량의 손상 부위 예측 및 손상 부위의 유형 구분 모델 구현
-  - [PPT](docs/presentation.pdf)
+  - [발표자료](docs/DA_FINAL_2조_최종본.pdf)
 <br>
 
 **2. SK Networks AI Camp**
 - (ML/DL) 전자상거래 고객 이탈 분석 및 예측 : 전자상거래 기업의 고객 데이터를 통한 이탈 여부 분석 및 예측
-  - [GitHub](https://github.com/your-repo-link)
+  - [GitHub](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-2ST-4TEAM)
 - (LLM) LLM 연동 내외부 문서 기반 질의응답 시스템 : 기업의 인사 관련 규정 기반 인사 규정 질의응답 시스템 구현
-  - [GitHub](https://github.com/your-repo-link)
+  - [GitHub](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-3RD-3TEAM)
+  - [발표자료](docs/SKN 3차 발표.pdf)
+  - [GitHub](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-4TH-3TEAM)
 - (LLM) 카메라 사용자 메뉴얼 문서 검색 시스템 : 카메라 사용자 메뉴얼 관련 RAG 시스템 구현
-  - [GitHub](https://github.com/your-repo-link) [PPT](docs/presentation.pdf)
+  - [GitHub - 개인진행 정리](https://github.com/usey10/Study_RAG)
+  - [GitHub - Frontend 작업 확인 가능](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-FINAL-1TEAM)
+  - [발표자료 - 중간 발표](docs/중간발표PPT.pdf)
 
 
 </div>
