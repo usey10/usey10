@@ -53,7 +53,7 @@
   - [GitHub](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-2ST-4TEAM)
 - (LLM) LLM 연동 내외부 문서 기반 질의응답 시스템 : 기업의 인사 관련 규정 기반 인사 규정 질의응답 시스템 구현
   - [GitHub](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-3RD-3TEAM)
-  - [발표자료](docs/SKN 3차 발표.pdf)
+  - [발표자료](docs/SKN_3차_발표.pdf)
   - [GitHub](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-4TH-3TEAM)
 - (LLM) 카메라 사용자 메뉴얼 문서 검색 시스템 : 카메라 사용자 메뉴얼 관련 RAG 시스템 구현
   - [GitHub - 개인진행 정리](https://github.com/usey10/Study_RAG)
