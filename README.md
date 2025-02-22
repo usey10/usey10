@@ -23,7 +23,22 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
+<!--   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />&nbsp -->
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />&nbsp
+</div>
+<div align="left">
+  <img src="https://img.shields.io/badge/langgraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/langchain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white" />&nbsp
+</div>
+<div align="left">
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />&nbsp
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" />&nbsp
+<!--   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />&nbsp -->
+<!--   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp -->
 </div>
 <div align="left">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
@@ -41,6 +56,7 @@
 **1. Zerobase**
 - (ML) 여행 장소 추천 시스템 : 각 개인의 선호도에 따른 여행 장소 추천 서비스 구현
   - [발표자료](docs/DS스쿨_26기_머신러닝프로젝트_최종발표(최종).pdf)
+  - [GitHub](https://github.com/usey10/TripAdviserML)
 - (CV) 손글씨 이미지 유사 폰트 추천 서비스 : 손글씨 이미지에 대한 유사 폰트 추천 서비스 구현
   - [GitHub](https://github.com/usey10/HandWriteDL)
   - [발표자료](docs/딥러닝최종발표_5조.pdf)
@@ -52,12 +68,11 @@
 - (ML/DL) 전자상거래 고객 이탈 분석 및 예측 : 전자상거래 기업의 고객 데이터를 통한 이탈 여부 분석 및 예측
   - [GitHub](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-2ST-4TEAM)
 - (LLM) LLM 연동 내외부 문서 기반 질의응답 시스템 : 기업의 인사 관련 규정 기반 인사 규정 질의응답 시스템 구현
-  - [GitHub](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-3RD-3TEAM)
+  - [GitHub - 모델](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-3RD-3TEAM)
   - [발표자료](docs/SKN_3차_발표.pdf)
-  - [GitHub](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-4TH-3TEAM)
+  - [GitHub - 웹](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-4TH-3TEAM)
 - (LLM) 카메라 사용자 메뉴얼 문서 검색 시스템 : 카메라 사용자 메뉴얼 관련 RAG 시스템 구현
-  - [GitHub - 개인진행 정리](https://github.com/usey10/Study_RAG)
-  - [GitHub - Frontend 작업 확인 가능](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-FINAL-1TEAM)
+  - [GitHub](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-FINAL-1TEAM)
   - [발표자료 - 중간 발표](docs/중간발표PPT.pdf)
 
 
@@ -66,7 +81,6 @@
 
 <!-- </details> -->
 <br><br>
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usey10&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
@@ -81,7 +95,7 @@
 
 <!-- Hit counter -->
 <div align="center">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fusey10&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fusey10&count_bg=%2379C8F7&title_bg=%235D728A&icon=reverbnation.svg&icon_color=%23E7E7E7&title=hello%21&edge_flat=false"/></a>
 </div>
 <br><br><br><br>
 
