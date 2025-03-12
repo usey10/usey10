@@ -55,8 +55,8 @@
 ## 참여 프로젝트
 **1. Zerobase**
 - (ML) 여행 장소 추천 시스템 : 각 개인의 선호도에 따른 여행 장소 추천 서비스 구현
-  - [발표자료](docs/DS스쿨_26기_머신러닝프로젝트_최종발표(최종).pdf)
   - [GitHub](https://github.com/usey10/TripAdviserML)
+  - [발표자료](docs/DS스쿨_26기_머신러닝프로젝트_최종발표(최종).pdf)
 - (CV) 손글씨 이미지 유사 폰트 추천 서비스 : 손글씨 이미지에 대한 유사 폰트 추천 서비스 구현
   - [GitHub](https://github.com/usey10/HandWriteDL)
   - [발표자료](docs/딥러닝최종발표_5조.pdf)
@@ -69,11 +69,13 @@
   - [GitHub](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-2ST-4TEAM)
 - (LLM) LLM 연동 내외부 문서 기반 질의응답 시스템 : 기업의 인사 관련 규정 기반 인사 규정 질의응답 시스템 구현
   - [GitHub - 모델](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-3RD-3TEAM)
-  - [발표자료](docs/SKN_3차_발표.pdf)
   - [GitHub - 웹](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-4TH-3TEAM)
+  - [발표자료](docs/SKN_3차_발표.pdf)
 - (LLM) 카메라 사용자 메뉴얼 문서 검색 시스템 : 카메라 사용자 메뉴얼 관련 RAG 시스템 구현
   - [GitHub](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-FINAL-1TEAM)
+  - [관련프로젝트 산출물](docs/SKN05_final)
   - [발표자료 - 중간 발표](docs/중간발표PPT.pdf)
+  - [발표자료 - 최종 발표](docs/SKN05_final/[SKN05_1팀]_0.최종_발표_자료.pdf)
 
 
 </div>
